@@ -9,9 +9,9 @@ Built as a Computer Networks class project.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="32%" />
-  <img src="screenshots/2.png" width="32%" />
-  <img src="screenshots/3.png" width="32%" />
+  <img src="screenshots/Tailscale.png.png" width="32%" />
+  <img src="screenshots/Videocaller%20window.png.png" width="32%" />
+  <img src="screenshots/Local%20testing.png.png" width="32%" />
 </p>
 
 ---

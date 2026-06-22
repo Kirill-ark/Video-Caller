@@ -4,6 +4,16 @@ A peer-to-peer video calling application built with Python. No servers, no accou
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/Tailscale.png" width="32%" />
+  <img src="screenshots/Video%20caller%20window.png" width="32%" />
+  <img src="screenshots/Local%20testing.png" width="32%" />
+</p>
+
+---
+
 ## Features
 
 - Live video — see both yourself and your peer in real time
